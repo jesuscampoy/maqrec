@@ -1,0 +1,976 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2016-07-19 09:06+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/AreasController.php:55;80
+msgid "The area has been saved."
+msgstr ""
+
+#: Controller/AreasController.php:58;83
+msgid "The area could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/AreasController.php:102
+msgid "The area has been deleted."
+msgstr ""
+
+#: Controller/AreasController.php:104
+msgid "The area could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/CensusesController.php:58;84
+msgid "The census has been saved."
+msgstr ""
+
+#: Controller/CensusesController.php:61;87
+msgid "The census could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CensusesController.php:107
+msgid "The census has been deleted."
+msgstr ""
+
+#: Controller/CensusesController.php:109
+msgid "The census could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ClientsController.php:58;85
+msgid "The client has been saved."
+msgstr ""
+
+#: Controller/ClientsController.php:61;88
+msgid "The client could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ClientsController.php:109
+msgid "The client has been deleted."
+msgstr ""
+
+#: Controller/ClientsController.php:111
+msgid "The client could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/CollectionsController.php:58;85
+msgid "The collection has been saved."
+msgstr ""
+
+#: Controller/CollectionsController.php:61;88
+msgid "The collection could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CollectionsController.php:109
+msgid "The collection has been deleted."
+msgstr ""
+
+#: Controller/CollectionsController.php:111
+msgid "The collection could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/DonationsController.php:58;85
+msgid "The donation has been saved."
+msgstr ""
+
+#: Controller/DonationsController.php:61;88
+msgid "The donation could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/DonationsController.php:109
+msgid "The donation has been deleted."
+msgstr ""
+
+#: Controller/DonationsController.php:111
+msgid "The donation could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/LoansController.php:58;84
+msgid "The loan has been saved."
+msgstr ""
+
+#: Controller/LoansController.php:61;87
+msgid "The loan could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/LoansController.php:107
+msgid "The loan has been deleted."
+msgstr ""
+
+#: Controller/LoansController.php:109
+msgid "The loan could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/MachinesController.php:58;84
+msgid "The machine has been saved."
+msgstr ""
+
+#: Controller/MachinesController.php:61;87
+msgid "The machine could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/MachinesController.php:107
+msgid "The machine has been deleted."
+msgstr ""
+
+#: Controller/MachinesController.php:109
+msgid "The machine could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/RefundsController.php:58;84
+msgid "The refund has been saved."
+msgstr ""
+
+#: Controller/RefundsController.php:61;87
+msgid "The refund could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/RefundsController.php:107
+msgid "The refund has been deleted."
+msgstr ""
+
+#: Controller/RefundsController.php:109
+msgid "The refund could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:58;84
+msgid "The user has been saved."
+msgstr ""
+
+#: Controller/UsersController.php:61;87
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:107
+msgid "The user has been deleted."
+msgstr ""
+
+#: Controller/UsersController.php:109
+msgid "The user could not be deleted. Please, try again."
+msgstr ""
+
+#: Template/Areas/add.ctp:6;17
+#: Template/Areas/edit.ctp:14;33
+#: Template/Areas/view.ctp:9;23
+#: Template/Censuses/add.ctp:7;16
+#: Template/Censuses/edit.ctp:15;32
+#: Template/Censuses/index.ctp:7
+#: Template/Censuses/view.ctp:11;23
+#: Template/Clients/add.ctp:7;28
+#: Template/Clients/edit.ctp:15;44
+#: Template/Clients/index.ctp:7
+#: Template/Clients/view.ctp:11;35
+msgid "List Areas"
+msgstr "Listado de Áreas"
+
+#: Template/Areas/add.ctp:7;18
+#: Template/Areas/edit.ctp:15;34
+#: Template/Areas/index.ctp:7
+#: Template/Areas/view.ctp:11;25
+#: Template/Censuses/add.ctp:6;15
+#: Template/Censuses/edit.ctp:14;31
+#: Template/Censuses/view.ctp:9;21
+msgid "List Censuses"
+msgstr ""
+
+#: Template/Areas/add.ctp:8;19
+#: Template/Areas/edit.ctp:16;35
+#: Template/Areas/index.ctp:8
+#: Template/Areas/view.ctp:12;26
+#: Template/Censuses/index.ctp:6
+#: Template/Censuses/view.ctp:10;22
+msgid "New Census"
+msgstr "Nuevo censo"
+
+#: Template/Areas/add.ctp:9;20
+#: Template/Areas/edit.ctp:17;36
+#: Template/Areas/index.ctp:9
+#: Template/Areas/view.ctp:13;27
+#: Template/Clients/add.ctp:6;27
+#: Template/Clients/edit.ctp:14;43
+#: Template/Clients/view.ctp:9;33
+#: Template/Collections/add.ctp:7;18
+#: Template/Collections/edit.ctp:15;34
+#: Template/Collections/index.ctp:7
+#: Template/Collections/view.ctp:11;25
+#: Template/Donations/add.ctp:7;18
+#: Template/Donations/edit.ctp:15;34
+#: Template/Donations/index.ctp:7
+#: Template/Donations/view.ctp:11;25
+#: Template/Loans/add.ctp:7;16
+#: Template/Loans/edit.ctp:15;32
+#: Template/Loans/index.ctp:7
+#: Template/Loans/view.ctp:11;23
+#: Template/Machines/add.ctp:7;18
+#: Template/Machines/edit.ctp:15;34
+#: Template/Machines/index.ctp:7
+#: Template/Machines/view.ctp:11;25
+#: Template/Refunds/add.ctp:7;16
+#: Template/Refunds/edit.ctp:15;32
+#: Template/Refunds/index.ctp:7
+#: Template/Refunds/view.ctp:11;23
+#: Template/Users/add.ctp:9;20
+#: Template/Users/edit.ctp:17;36
+#: Template/Users/index.ctp:9
+#: Template/Users/view.ctp:13;27
+msgid "List Clients"
+msgstr ""
+
+#: Template/Areas/add.ctp:10;21
+#: Template/Areas/edit.ctp:18;37
+#: Template/Areas/index.ctp:10
+#: Template/Areas/view.ctp:14;28
+#: Template/Clients/index.ctp:6
+#: Template/Clients/view.ctp:10;34
+#: Template/Collections/add.ctp:8;19
+#: Template/Collections/edit.ctp:16;35
+#: Template/Collections/index.ctp:8
+#: Template/Collections/view.ctp:12;26
+#: Template/Donations/add.ctp:8;19
+#: Template/Donations/edit.ctp:16;35
+#: Template/Donations/index.ctp:8
+#: Template/Donations/view.ctp:12;26
+#: Template/Loans/add.ctp:8;17
+#: Template/Loans/edit.ctp:16;33
+#: Template/Loans/index.ctp:8
+#: Template/Loans/view.ctp:12;24
+#: Template/Machines/add.ctp:8;19
+#: Template/Machines/edit.ctp:16;35
+#: Template/Machines/index.ctp:8
+#: Template/Machines/view.ctp:12;26
+#: Template/Refunds/add.ctp:8;17
+#: Template/Refunds/edit.ctp:16;33
+#: Template/Refunds/index.ctp:8
+#: Template/Refunds/view.ctp:12;24
+#: Template/Users/add.ctp:10;21
+#: Template/Users/edit.ctp:18;37
+#: Template/Users/index.ctp:10
+#: Template/Users/view.ctp:14;28
+msgid "New Client"
+msgstr ""
+
+#: Template/Areas/add.ctp:28
+#: Template/Censuses/add.ctp:24
+#: Template/Clients/add.ctp:48
+#: Template/Collections/add.ctp:28
+#: Template/Donations/add.ctp:28
+#: Template/Loans/add.ctp:24
+#: Template/Machines/add.ctp:28
+#: Template/Refunds/add.ctp:24
+#: Template/Users/add.ctp:28
+msgid "Add {0}"
+msgstr "Añadir {0}"
+
+#: Template/Areas/add.ctp:33
+#: Template/Censuses/add.ctp:36
+#: Template/Clients/add.ctp:59
+#: Template/Collections/add.ctp:41
+#: Template/Donations/add.ctp:36
+#: Template/Loans/add.ctp:32
+#: Template/Machines/add.ctp:42
+#: Template/Refunds/add.ctp:31
+#: Template/Users/add.ctp:38
+msgid "Add"
+msgstr "Añadir"
+
+#: Template/Areas/edit.ctp:8;27
+#: Template/Areas/index.ctp:34
+#: Template/Areas/view.ctp:98;146
+#: Template/Censuses/edit.ctp:8;25
+#: Template/Censuses/index.ctp:40
+#: Template/Clients/edit.ctp:8;37
+#: Template/Clients/index.ctp:54
+#: Template/Clients/view.ctp:144;186;228;282;322
+#: Template/Collections/edit.ctp:8;27
+#: Template/Collections/index.ctp:44
+#: Template/Donations/edit.ctp:8;27
+#: Template/Donations/index.ctp:44
+#: Template/Loans/edit.ctp:8;25
+#: Template/Loans/index.ctp:40
+#: Template/Machines/edit.ctp:8;27
+#: Template/Machines/index.ctp:42
+#: Template/Machines/view.ctp:136
+#: Template/Refunds/edit.ctp:8;25
+#: Template/Refunds/index.ctp:38
+#: Template/Users/edit.ctp:8;27
+#: Template/Users/index.ctp:42
+#: Template/Users/view.ctp:116
+msgid "Delete"
+msgstr "Borrar"
+
+#: Template/Areas/edit.ctp:10;29
+#: Template/Areas/index.ctp:34
+#: Template/Areas/view.ctp:8;22;98;146
+#: Template/Censuses/edit.ctp:10;27
+#: Template/Censuses/index.ctp:40
+#: Template/Censuses/view.ctp:8;20
+#: Template/Clients/edit.ctp:10;39
+#: Template/Clients/index.ctp:54
+#: Template/Clients/view.ctp:8;32;144;186;228;282;322
+#: Template/Collections/edit.ctp:10;29
+#: Template/Collections/index.ctp:44
+#: Template/Collections/view.ctp:8;22
+#: Template/Donations/edit.ctp:10;29
+#: Template/Donations/index.ctp:44
+#: Template/Donations/view.ctp:8;22
+#: Template/Loans/edit.ctp:10;27
+#: Template/Loans/index.ctp:40
+#: Template/Loans/view.ctp:8;20
+#: Template/Machines/edit.ctp:10;29
+#: Template/Machines/index.ctp:42
+#: Template/Machines/view.ctp:8;22;136
+#: Template/Refunds/edit.ctp:10;27
+#: Template/Refunds/index.ctp:38
+#: Template/Refunds/view.ctp:8;20
+#: Template/Users/edit.ctp:10;29
+#: Template/Users/index.ctp:42
+#: Template/Users/view.ctp:8;22;116
+msgid "Are you sure you want to delete # {0}?"
+msgstr "Estás seguro de que quieres borrar # {0}?"
+
+#: Template/Areas/edit.ctp:44
+#: Template/Censuses/edit.ctp:40
+#: Template/Clients/edit.ctp:64
+#: Template/Collections/edit.ctp:44
+#: Template/Donations/edit.ctp:44
+#: Template/Loans/edit.ctp:40
+#: Template/Machines/edit.ctp:44
+#: Template/Refunds/edit.ctp:40
+#: Template/Users/edit.ctp:44
+msgid "Edit {0}"
+msgstr "Editar {0}"
+
+#: Template/Areas/edit.ctp:49
+#: Template/Censuses/edit.ctp:52
+#: Template/Clients/edit.ctp:75
+#: Template/Collections/edit.ctp:57
+#: Template/Donations/edit.ctp:52
+#: Template/Loans/edit.ctp:48
+#: Template/Machines/edit.ctp:58
+#: Template/Refunds/edit.ctp:47
+#: Template/Users/edit.ctp:54
+msgid "Save"
+msgstr "Guardar"
+
+#: Template/Areas/index.ctp:6
+#: Template/Areas/view.ctp:10;24
+#: Template/Censuses/add.ctp:8;17
+#: Template/Censuses/edit.ctp:16;33
+#: Template/Censuses/index.ctp:8
+#: Template/Censuses/view.ctp:12;24
+#: Template/Clients/add.ctp:8;29
+#: Template/Clients/edit.ctp:16;45
+#: Template/Clients/index.ctp:8
+#: Template/Clients/view.ctp:12;36
+msgid "New Area"
+msgstr ""
+
+#: Template/Areas/index.ctp:21
+#: Template/Areas/view.ctp:78;127
+#: Template/Censuses/index.ctp:22
+#: Template/Clients/index.ctp:34
+#: Template/Clients/view.ctp:123;170;212;260;307
+#: Template/Collections/index.ctp:24
+#: Template/Donations/index.ctp:24
+#: Template/Loans/index.ctp:22
+#: Template/Machines/index.ctp:24
+#: Template/Machines/view.ctp:115
+#: Template/Refunds/index.ctp:21
+#: Template/Users/index.ctp:24
+#: Template/Users/view.ctp:97
+msgid "Actions"
+msgstr ""
+
+#: Template/Areas/index.ctp:32
+#: Template/Areas/view.ctp:96;144
+#: Template/Censuses/index.ctp:38
+#: Template/Clients/index.ctp:52
+#: Template/Clients/view.ctp:142;184;226;280;320
+#: Template/Collections/index.ctp:42
+#: Template/Donations/index.ctp:42
+#: Template/Loans/index.ctp:38
+#: Template/Machines/index.ctp:40
+#: Template/Machines/view.ctp:134
+#: Template/Refunds/index.ctp:36
+#: Template/Users/index.ctp:40
+#: Template/Users/view.ctp:114
+msgid "View"
+msgstr ""
+
+#: Template/Areas/index.ctp:33
+#: Template/Areas/view.ctp:97;145
+#: Template/Censuses/index.ctp:39
+#: Template/Clients/index.ctp:53
+#: Template/Clients/view.ctp:143;185;227;281;321
+#: Template/Collections/index.ctp:43
+#: Template/Donations/index.ctp:43
+#: Template/Loans/index.ctp:39
+#: Template/Machines/index.ctp:41
+#: Template/Machines/view.ctp:135
+#: Template/Refunds/index.ctp:37
+#: Template/Users/index.ctp:41
+#: Template/Users/view.ctp:115
+msgid "Edit"
+msgstr ""
+
+#: Template/Areas/index.ctp:42
+#: Template/Censuses/index.ctp:48
+#: Template/Clients/index.ctp:62
+#: Template/Collections/index.ctp:52
+#: Template/Donations/index.ctp:52
+#: Template/Loans/index.ctp:48
+#: Template/Machines/index.ctp:50
+#: Template/Refunds/index.ctp:46
+#: Template/Users/index.ctp:50
+msgid "previous"
+msgstr ""
+
+#: Template/Areas/index.ctp:44
+#: Template/Censuses/index.ctp:50
+#: Template/Clients/index.ctp:64
+#: Template/Collections/index.ctp:54
+#: Template/Donations/index.ctp:54
+#: Template/Loans/index.ctp:50
+#: Template/Machines/index.ctp:52
+#: Template/Refunds/index.ctp:48
+#: Template/Users/index.ctp:52
+msgid "next"
+msgstr ""
+
+#: Template/Areas/view.ctp:7;21
+msgid "Edit Area"
+msgstr ""
+
+#: Template/Areas/view.ctp:8;22
+msgid "Delete Area"
+msgstr ""
+
+#: Template/Areas/view.ctp:40;67;117
+#: Template/Censuses/view.ctp:36
+#: Template/Clients/view.ctp:60;111;163;205;247;301
+#: Template/Collections/view.ctp:40
+#: Template/Donations/view.ctp:40
+#: Template/Loans/view.ctp:36
+#: Template/Machines/view.ctp:40;103
+#: Template/Refunds/view.ctp:36
+#: Template/Users/view.ctp:40;87
+msgid "Id"
+msgstr ""
+
+#: Template/Areas/view.ctp:44;69;120
+#: Template/Censuses/view.ctp:44
+#: Template/Clients/view.ctp:72
+#: Template/Users/view.ctp:56;90
+msgid "Name"
+msgstr ""
+
+#: Template/Areas/view.ctp:48;76;125
+#: Template/Censuses/view.ctp:72
+#: Template/Clients/view.ctp:92;121;168;210;258;305
+#: Template/Collections/view.ctp:76
+#: Template/Donations/view.ctp:60
+#: Template/Loans/view.ctp:56
+#: Template/Machines/view.ctp:80;113
+#: Template/Refunds/view.ctp:52
+#: Template/Users/view.ctp:68;95
+msgid "Created"
+msgstr ""
+
+#: Template/Areas/view.ctp:52;77;126
+#: Template/Censuses/view.ctp:76
+#: Template/Clients/view.ctp:96;122;169;211;259;306
+#: Template/Collections/view.ctp:80
+#: Template/Donations/view.ctp:64
+#: Template/Loans/view.ctp:60
+#: Template/Machines/view.ctp:84;114
+#: Template/Refunds/view.ctp:56
+#: Template/Users/view.ctp:72;96
+msgid "Modified"
+msgstr ""
+
+#: Template/Areas/view.ctp:61
+msgid "Related Censuses"
+msgstr ""
+
+#: Template/Areas/view.ctp:68;118
+#: Template/Users/view.ctp:88
+msgid "Area Id"
+msgstr ""
+
+#: Template/Areas/view.ctp:70;121
+#: Template/Censuses/view.ctp:48
+#: Template/Clients/view.ctp:76
+#: Template/Users/view.ctp:91
+msgid "Contact Name"
+msgstr ""
+
+#: Template/Areas/view.ctp:71;122
+#: Template/Censuses/view.ctp:52
+#: Template/Clients/view.ctp:80
+#: Template/Users/view.ctp:92
+msgid "Address"
+msgstr ""
+
+#: Template/Areas/view.ctp:72;123
+#: Template/Censuses/view.ctp:60
+#: Template/Clients/view.ctp:84
+#: Template/Users/view.ctp:64;93
+msgid "Telephone"
+msgstr ""
+
+#: Template/Areas/view.ctp:73
+#: Template/Censuses/view.ctp:64
+msgid "Number Of Machines"
+msgstr ""
+
+#: Template/Areas/view.ctp:74
+#: Template/Censuses/view.ctp:56
+msgid "Current Provider"
+msgstr ""
+
+#: Template/Areas/view.ctp:75;124
+#: Template/Censuses/view.ctp:68
+#: Template/Clients/view.ctp:88
+#: Template/Users/view.ctp:94
+msgid "Contract End"
+msgstr ""
+
+#: Template/Areas/view.ctp:111
+#: Template/Users/view.ctp:81
+msgid "Related Clients"
+msgstr ""
+
+#: Template/Areas/view.ctp:119
+#: Template/Users/view.ctp:89
+msgid "User Id"
+msgstr ""
+
+#: Template/Censuses/view.ctp:7;19
+msgid "Edit Census"
+msgstr ""
+
+#: Template/Censuses/view.ctp:8;20
+msgid "Delete Census"
+msgstr ""
+
+#: Template/Censuses/view.ctp:40
+#: Template/Clients/view.ctp:64
+msgid "Area"
+msgstr ""
+
+#: Template/Clients/add.ctp:9;30
+#: Template/Clients/edit.ctp:17;46
+#: Template/Clients/index.ctp:9
+#: Template/Clients/view.ctp:13;37
+#: Template/Users/add.ctp:6;17
+#: Template/Users/edit.ctp:14;33
+#: Template/Users/view.ctp:9;23
+msgid "List Users"
+msgstr ""
+
+#: Template/Clients/add.ctp:10;31
+#: Template/Clients/edit.ctp:18;47
+#: Template/Clients/index.ctp:10
+#: Template/Clients/view.ctp:14;38
+#: Template/Users/index.ctp:6
+#: Template/Users/view.ctp:10;24
+msgid "New User"
+msgstr ""
+
+#: Template/Clients/add.ctp:11;32
+#: Template/Clients/edit.ctp:19;48
+#: Template/Clients/index.ctp:11
+#: Template/Clients/view.ctp:15;39
+#: Template/Collections/add.ctp:6;17
+#: Template/Collections/edit.ctp:14;33
+#: Template/Collections/view.ctp:9;23
+#: Template/Machines/add.ctp:9;20
+#: Template/Machines/edit.ctp:17;36
+#: Template/Machines/index.ctp:9
+#: Template/Machines/view.ctp:13;27
+msgid "List Collections"
+msgstr ""
+
+#: Template/Clients/add.ctp:12;33
+#: Template/Clients/edit.ctp:20;49
+#: Template/Clients/index.ctp:12
+#: Template/Clients/view.ctp:16;40
+#: Template/Collections/index.ctp:6
+#: Template/Collections/view.ctp:10;24
+#: Template/Machines/add.ctp:10;21
+#: Template/Machines/edit.ctp:18;37
+#: Template/Machines/index.ctp:10
+#: Template/Machines/view.ctp:14;28
+msgid "New Collection"
+msgstr ""
+
+#: Template/Clients/add.ctp:13;34
+#: Template/Clients/edit.ctp:21;50
+#: Template/Clients/index.ctp:13
+#: Template/Clients/view.ctp:17;41
+#: Template/Donations/add.ctp:6;17
+#: Template/Donations/edit.ctp:14;33
+#: Template/Donations/view.ctp:9;23
+msgid "List Donations"
+msgstr ""
+
+#: Template/Clients/add.ctp:14;35
+#: Template/Clients/edit.ctp:22;51
+#: Template/Clients/index.ctp:14
+#: Template/Clients/view.ctp:18;42
+#: Template/Donations/index.ctp:6
+#: Template/Donations/view.ctp:10;24
+msgid "New Donation"
+msgstr ""
+
+#: Template/Clients/add.ctp:15;36
+#: Template/Clients/edit.ctp:23;52
+#: Template/Clients/index.ctp:15
+#: Template/Clients/view.ctp:19;43
+#: Template/Loans/add.ctp:6;15
+#: Template/Loans/edit.ctp:14;31
+#: Template/Loans/view.ctp:9;21
+msgid "List Loans"
+msgstr ""
+
+#: Template/Clients/add.ctp:16;37
+#: Template/Clients/edit.ctp:24;53
+#: Template/Clients/index.ctp:16
+#: Template/Clients/view.ctp:20;44
+#: Template/Loans/index.ctp:6
+#: Template/Loans/view.ctp:10;22
+msgid "New Loan"
+msgstr ""
+
+#: Template/Clients/add.ctp:17;38
+#: Template/Clients/edit.ctp:25;54
+#: Template/Clients/index.ctp:17
+#: Template/Clients/view.ctp:21;45
+#: Template/Collections/add.ctp:9;20
+#: Template/Collections/edit.ctp:17;36
+#: Template/Collections/index.ctp:9
+#: Template/Collections/view.ctp:13;27
+#: Template/Machines/add.ctp:6;17
+#: Template/Machines/edit.ctp:14;33
+#: Template/Machines/view.ctp:9;23
+msgid "List Machines"
+msgstr ""
+
+#: Template/Clients/add.ctp:18;39
+#: Template/Clients/edit.ctp:26;55
+#: Template/Clients/index.ctp:18
+#: Template/Clients/view.ctp:22;46
+#: Template/Collections/add.ctp:10;21
+#: Template/Collections/edit.ctp:18;37
+#: Template/Collections/index.ctp:10
+#: Template/Collections/view.ctp:14;28
+#: Template/Machines/index.ctp:6
+#: Template/Machines/view.ctp:10;24
+msgid "New Machine"
+msgstr ""
+
+#: Template/Clients/add.ctp:19;40
+#: Template/Clients/edit.ctp:27;56
+#: Template/Clients/index.ctp:19
+#: Template/Clients/view.ctp:23;47
+#: Template/Refunds/add.ctp:6;15
+#: Template/Refunds/edit.ctp:14;31
+#: Template/Refunds/view.ctp:9;21
+msgid "List Refunds"
+msgstr ""
+
+#: Template/Clients/add.ctp:20;41
+#: Template/Clients/edit.ctp:28;57
+#: Template/Clients/index.ctp:20
+#: Template/Clients/view.ctp:24;48
+#: Template/Refunds/index.ctp:6
+#: Template/Refunds/view.ctp:10;22
+msgid "New Refund"
+msgstr ""
+
+#: Template/Clients/view.ctp:7;31
+msgid "Edit Client"
+msgstr ""
+
+#: Template/Clients/view.ctp:8;32
+msgid "Delete Client"
+msgstr ""
+
+#: Template/Clients/view.ctp:68
+#: Template/Users/view.ctp:48
+msgid "User"
+msgstr ""
+
+#: Template/Clients/view.ctp:105
+#: Template/Machines/view.ctp:97
+msgid "Related Collections"
+msgstr ""
+
+#: Template/Clients/view.ctp:112;164;206;248;302
+#: Template/Machines/view.ctp:104
+msgid "Client Id"
+msgstr ""
+
+#: Template/Clients/view.ctp:113
+#: Template/Machines/view.ctp:105
+msgid "Machine Id"
+msgstr ""
+
+#: Template/Clients/view.ctp:114;167;304
+#: Template/Collections/view.ctp:72
+#: Template/Donations/view.ctp:56
+#: Template/Machines/view.ctp:106
+#: Template/Refunds/view.ctp:48
+msgid "Date"
+msgstr ""
+
+#: Template/Clients/view.ctp:115
+#: Template/Collections/view.ctp:52
+#: Template/Machines/view.ctp:107
+msgid "Inputs"
+msgstr ""
+
+#: Template/Clients/view.ctp:116
+#: Template/Collections/view.ctp:56
+#: Template/Machines/view.ctp:108
+msgid "Outputs"
+msgstr ""
+
+#: Template/Clients/view.ctp:117
+#: Template/Collections/view.ctp:60
+#: Template/Machines/view.ctp:109
+msgid "Bruto Recaudado"
+msgstr ""
+
+#: Template/Clients/view.ctp:118;256
+#: Template/Collections/view.ctp:64
+#: Template/Machines/view.ctp:76;110
+msgid "Tolva"
+msgstr ""
+
+#: Template/Clients/view.ctp:119
+#: Template/Collections/view.ctp:68
+#: Template/Machines/view.ctp:111
+msgid "Donation"
+msgstr ""
+
+#: Template/Clients/view.ctp:120
+#: Template/Collections/view.ctp:84
+#: Template/Machines/view.ctp:112
+msgid "Comments"
+msgstr ""
+
+#: Template/Clients/view.ctp:157
+msgid "Related Donations"
+msgstr ""
+
+#: Template/Clients/view.ctp:165
+msgid "Donation Type Id"
+msgstr ""
+
+#: Template/Clients/view.ctp:166;207;303
+#: Template/Donations/view.ctp:52
+#: Template/Loans/view.ctp:44
+#: Template/Refunds/view.ctp:44
+msgid "Quantity"
+msgstr ""
+
+#: Template/Clients/view.ctp:199
+msgid "Related Loans"
+msgstr ""
+
+#: Template/Clients/view.ctp:208
+#: Template/Loans/view.ctp:48
+msgid "Loan Date"
+msgstr ""
+
+#: Template/Clients/view.ctp:209
+#: Template/Loans/view.ctp:52
+msgid "Due Date"
+msgstr ""
+
+#: Template/Clients/view.ctp:241
+msgid "Related Machines"
+msgstr ""
+
+#: Template/Clients/view.ctp:249
+#: Template/Machines/view.ctp:48
+msgid "Model"
+msgstr ""
+
+#: Template/Clients/view.ctp:250
+#: Template/Machines/view.ctp:52
+msgid "Registration"
+msgstr ""
+
+#: Template/Clients/view.ctp:251
+#: Template/Machines/view.ctp:56
+msgid "Init Inputs"
+msgstr ""
+
+#: Template/Clients/view.ctp:252
+#: Template/Machines/view.ctp:60
+msgid "Init Outputs"
+msgstr ""
+
+#: Template/Clients/view.ctp:253
+#: Template/Machines/view.ctp:64
+msgid "Taxes"
+msgstr ""
+
+#: Template/Clients/view.ctp:254
+#: Template/Machines/view.ctp:68
+msgid "Gain"
+msgstr ""
+
+#: Template/Clients/view.ctp:255
+#: Template/Machines/view.ctp:72
+msgid "Coin"
+msgstr ""
+
+#: Template/Clients/view.ctp:257
+#: Template/Machines/view.ctp:88
+msgid "Active"
+msgstr ""
+
+#: Template/Clients/view.ctp:295
+msgid "Related Refunds"
+msgstr ""
+
+#: Template/Collections/view.ctp:7;21
+msgid "Edit Collection"
+msgstr ""
+
+#: Template/Collections/view.ctp:8;22
+msgid "Delete Collection"
+msgstr ""
+
+#: Template/Collections/view.ctp:44
+#: Template/Donations/view.ctp:44
+#: Template/Loans/view.ctp:40
+#: Template/Machines/view.ctp:44
+#: Template/Refunds/view.ctp:40
+msgid "Client"
+msgstr ""
+
+#: Template/Collections/view.ctp:48
+msgid "Machine"
+msgstr ""
+
+#: Template/Donations/add.ctp:9;20
+#: Template/Donations/edit.ctp:17;36
+#: Template/Donations/view.ctp:13;27
+msgid "List Donation Types"
+msgstr ""
+
+#: Template/Donations/add.ctp:10;21
+#: Template/Donations/edit.ctp:18;37
+#: Template/Donations/index.ctp:10
+#: Template/Donations/view.ctp:14;28
+msgid "New Donation Type"
+msgstr ""
+
+#: Template/Donations/index.ctp:9
+msgid "List DonationTypes"
+msgstr ""
+
+#: Template/Donations/view.ctp:7;21
+msgid "Edit Donation"
+msgstr ""
+
+#: Template/Donations/view.ctp:8;22
+msgid "Delete Donation"
+msgstr ""
+
+#: Template/Donations/view.ctp:48
+msgid "Donation Type"
+msgstr ""
+
+#: Template/Loans/view.ctp:7;19
+msgid "Edit Loan"
+msgstr ""
+
+#: Template/Loans/view.ctp:8;20
+msgid "Delete Loan"
+msgstr ""
+
+#: Template/Machines/view.ctp:7;21
+msgid "Edit Machine"
+msgstr ""
+
+#: Template/Machines/view.ctp:8;22
+msgid "Delete Machine"
+msgstr ""
+
+#: Template/Machines/view.ctp:89
+msgid "Yes"
+msgstr ""
+
+#: Template/Machines/view.ctp:89
+msgid "No"
+msgstr ""
+
+#: Template/Refunds/view.ctp:7;19
+msgid "Edit Refund"
+msgstr ""
+
+#: Template/Refunds/view.ctp:8;20
+msgid "Delete Refund"
+msgstr ""
+
+#: Template/Users/add.ctp:7;18
+#: Template/Users/edit.ctp:15;34
+#: Template/Users/index.ctp:7
+#: Template/Users/view.ctp:11;25
+msgid "List Roles"
+msgstr ""
+
+#: Template/Users/add.ctp:8;19
+#: Template/Users/edit.ctp:16;35
+#: Template/Users/index.ctp:8
+#: Template/Users/view.ctp:12;26
+msgid "New Role"
+msgstr ""
+
+#: Template/Users/view.ctp:7;21
+msgid "Edit User"
+msgstr ""
+
+#: Template/Users/view.ctp:8;22
+msgid "Delete User"
+msgstr ""
+
+#: Template/Users/view.ctp:44
+msgid "Role"
+msgstr ""
+
+#: Template/Users/view.ctp:52
+msgid "Password"
+msgstr ""
+
+#: Template/Users/view.ctp:60
+msgid "Email"
+msgstr ""
+
+#: Template/Error/error400.ctp:36
+#: Template/Error/error500.ctp:41
+msgid "Error"
+msgstr ""
+
+#: Template/Error/error400.ctp:38
+msgid "The requested address %s was not found on this server."
+msgstr ""
+
+#: Template/Error/error500.ctp:39
+msgid "An Internal Error Has Occurred"
+msgstr ""
+

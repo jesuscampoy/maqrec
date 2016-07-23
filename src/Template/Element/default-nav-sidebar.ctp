@@ -1,0 +1,10 @@
+    <li><?= $this->Html->link(__('List Machines'), ['controller' => 'Machines', 'action' => 'index']); ?></li>
+    <li><?= $this->Html->link(__('New Machine'), ['controller' => 'Machines', 'action' => 'add']); ?></li>
+    <li><?= $this->Html->link(__('List Collections'), ['controller' => 'Collections', 'action' => 'index']); ?></li>
+    <li><?= $this->Html->link(__('New Collection'), ['controller' => 'Collections', 'action' => 'add']); ?></li>
+    <li><?= $this->Html->link(__('List Donations'), ['controller' => 'Donations', 'action' => 'index']); ?></li>
+    <li><?= $this->Html->link(__('New Donation'), ['controller' => 'Donations', 'action' => 'add']); ?></li>
+    <li><?= $this->Html->link(__('List Loans'), ['controller' => 'Loans', 'action' => 'index']); ?></li>
+    <li><?= $this->Html->link(__('New Loan'), ['controller' => 'Loans', 'action' => 'add']); ?></li>
+    <li><?= $this->Html->link(__('List Refunds'), ['controller' => 'Refunds', 'action' => 'index']); ?></li>
+    <li><?= $this->Html->link(__('New Refund'), ['controller' => 'Refunds', 'action' => 'add']); ?></li>
